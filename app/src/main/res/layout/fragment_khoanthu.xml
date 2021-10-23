@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="Thu Nhập"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:layout_margin="8dp"
+        android:textStyle="italic|bold"
+        android:textSize="32sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:hint="Nhập Tên khoản Thu"
+        android:layout_margin="8dp"
+        android:id="@+id/edt_nameKT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:hint="Nhập Tên Số Tiền"
+        android:layout_margin="8dp"
+        android:id="@+id/edt_money"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:text="Thêm Thu Nhập"
+        android:id="@+id/btn_nhapKT"
+        android:textColor="@color/white"
+        android:background="@drawable/button_them_thu_nhap"
+        android:layout_margin="16dp"
+        android:layout_height="wrap_content"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rc_KhoanThu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

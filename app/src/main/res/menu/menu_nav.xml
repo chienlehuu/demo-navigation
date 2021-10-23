@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/it_home"
+            android:title="@string/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            />
+        <item android:id="@+id/it_khoanthu"
+            android:title="@string/nav_khuanthu"
+            android:icon="@drawable/ic_baseline_monetization_on_24"
+            />
+        <item android:id="@+id/it_khoanchi"
+            android:title="@string/nav_khoanchi"
+            android:icon="@drawable/ic_baseline_money_24"
+            />
+    </group>
+
+    <item android:title="@string/nav_ac">
+        <menu>
+            <item android:id="@+id/it_profile"
+                android:title="@string/nav_profile"
+                android:icon="@drawable/ic_profile"
+                />
+            <item android:id="@+id/it_settings"
+                android:title="@string/nav_settings"
+                android:icon="@drawable/ic_baseline_settings_24"
+                />
+
+
+
+        </menu>
+
+
+    </item>
+
+</menu>

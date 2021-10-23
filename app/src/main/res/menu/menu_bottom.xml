@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/it_bottom_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/nav_home"/>
+    <item android:id="@+id/it_bottom_khoan_thu"
+        android:icon="@drawable/ic_baseline_monetization_on_24"
+        android:title="@string/nav_khuanthu"/>
+    <item android:id="@+id/it_bottom_khoan_Chi"
+        android:icon="@drawable/ic_baseline_money_24"
+        android:title="@string/nav_khoanchi"/>
+</menu>

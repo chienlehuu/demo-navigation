@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/drawable/button_them_thu_nhap.xml" value="0.22395833333333334" />
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.22395833333333334" />
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/drawable/ic_baseline_monetization_on_24.xml" value="0.2064814814814815" />
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/drawable/ic_profile.xml" value="0.2064814814814815" />
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/layout/activity_detail.xml" value="0.16621376811594202" />
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/layout/activity_update_khoan_thu.xml" value="0.11911231884057971" />
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/layout/fragment_home.xml" value="0.21" />
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/layout/fragment_khoanchi.xml" value="0.14356884057971014" />
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/layout/fragment_khoanthu.xml" value="0.2" />
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/layout/item_khoan_thu.xml" value="0.12907608695652173" />
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/layout/item_khoanthu.xml" value="0.1852355072463768" />
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/layout/item_rcview.xml" value="0.18" />
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/layout/layout_header_nav.xml" value="0.2" />
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/menu/menu_bottom.xml" value="0.203125" />
+        <entry key="..\:/ProjectAndroid/DemoNavigationDrawerToolbar/app/src/main/res/menu/menu_nav.xml" value="0.2078125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

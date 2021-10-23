@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DemoNavigationDrawerToolbar</string>
+    <string name="nav_home">Trang Chủ</string>
+    <string name="nav_khoanchi">Khoản Chi</string>
+    <string name="nav_khuanthu">Khoản Thu</string>
+    <string name="nav_profile">Trang Cá Nhân</string>
+    <string name="nav_settings">Cài đặt</string>
+    <string name="nav_ac">Tài Khoản</string>
+    <string name="open_drawer">Open Drawer </string>
+    <string name="close_drawer">Close Drawer</string>
+
+
+</resources>

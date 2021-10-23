@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".activitis.UpdateKhoanThuActivity">
+
+    <TextView
+        android:textSize="32sp"
+        android:gravity="center"
+        android:layout_margin="16dp"
+        android:textStyle="bold|italic"
+        android:textColor="@color/black"
+        android:text="Update Khoan Thu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edt_khoanthu"
+        android:hint="Nhập Khoan Thu"
+        android:layout_margin="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/edt_moneyUD"
+        android:hint="Nhập số tiền"
+        android:inputType="number"
+        android:layout_margin="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:text="Update Khoan Thu"
+        android:id="@+id/btn_updatenhapKT"
+        android:textColor="@color/white"
+        android:background="@drawable/button_them_thu_nhap"
+        android:layout_margin="16dp"
+        android:layout_height="wrap_content"/>
+
+
+
+</LinearLayout>
